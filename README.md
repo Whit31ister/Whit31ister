@@ -1,1 +1,1 @@
-<img width="1920" height="1080" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/9e071041-2b87-4465-b4e4-9f9c10dba581" />
+<img width="100%" alt="Pasted image" src="./Pasted%20image%20(2).png" />
