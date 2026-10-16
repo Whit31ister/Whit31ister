@@ -25,10 +25,3 @@
 * **Engine & Powertrain:** V-12 Maybach HL 230 P30 gasoline engine delivering ~700 PS.
 
 ---
-
-### **`03. REPOSITORY NOTES`**
-
-```text
-[STATUS] :: Operational
-[UNITS]  :: 489 Total Serial Production Frames
-[ROLE]   :: Profile Showcase & Primary Interface
